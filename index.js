@@ -14,3 +14,5 @@ function overwriteBestCustomer() {
 }
 
 const = 'George'
+
+function changeLeastFavoriteCustomger
